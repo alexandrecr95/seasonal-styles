@@ -15,19 +15,19 @@ $("document").ready(function(){
             break;
             case "summer":
                 $("html").css("background-color","#EBA52B");
-                $("#slogan").text("Summer into our Summer wear!");
+                $("#slogan").text("Life's a beach!");
                 $("#wear").attr("src","images/summer-wear.jpg");
                 $("#logo").attr("src","images/summer.gif");
             break;
             case "fall":
                 $("html").css("background-color","#A81124");
-                $("#slogan").text("Fall into our Fall wear!");
+                $("#slogan").text("We're falling for you!");
                 $("#wear").attr("src","images/fall-wear.jpg");
                 $("#logo").attr("src","images/fall.gif");
             break;
             case "winter":
                 $("html").css("background-color","#005393");
-                $("#slogan").text("Fall into our Fall wear!");
+                $("#slogan").text("Flake it till you make it!");
                 $("#wear").attr("src","images/winter-wear.jpg");
                 $("#logo").attr("src","images/winter.gif");
             break;
